@@ -1,6 +1,8 @@
 # P. M. Arun
+I am a professional Front-end Developer with refined skills in HTML, CSS, and JavaScript. I am also popular with various javascript frameworks and APIs. I am am skilled in building E-Commerce websites, Landing Pages, Portfolios, Chat Applications, and many more. I am always ready to learn if something new comes up in the sector and implement it in the upcoming new projects.
 
-In May 2020,after working more than 20 years in the animal care field, I began my journey into the field of web development and design. My previous work experiences have honed my problem solving and written/verbal communication abilities. I can effectively self-manage during independent projects and also enjoy collaborating in a team setting. I am a highly-motivated, self-sufficient fast learner with a strong work ethic and have been working diligently this past year to learn front-end web development and design!
+
+I am aspiring to become a professional Full-Stack developer and working hard to reach that heights.
 
 
 ## Education
