@@ -1,8 +1,8 @@
 # P. M. Arun
-I am a professional Front-end Developer with refined skills in HTML, CSS, and JavaScript. I am also popular with various javascript frameworks and APIs. I am am skilled in building E-Commerce websites, Landing Pages, Portfolios, Chat Applications, and many more. I am always ready to learn if something new comes up in the sector and implement it in the upcoming new projects.
+I am a professional Front-end Developer with refined skills in HTML, CSS, and JavaScript. I am also popular with various javascript frameworks and APIs. I am skilled in building E-Commerce websites, Landing Pages, Portfolios, Chat Applications, and many more. I am always ready to learn if something new comes up in the sector and implement it in the upcoming new projects.
 
 
-I am aspiring to become a professional Full-Stack developer and working hard to reach that heights.
+I am aspiring to become a professional Full-Stack developer and working hard to reach that height.
 
 
 ## Education
